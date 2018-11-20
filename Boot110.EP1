@@ -1,0 +1,19 @@
+************* EParray[ 1 ]: TestFile **********
+1             Aantal tijdsonafhankelijke tabellen: (=xInDep)
+0             ***table 0: table-type 0 (no interpolation) 
+-36           -Aant. intervallen (i.p.v. rows, columns) UITVOERTIJDSTIPPEN (d)
+0 360          
+4             Aantal tijdsafhankelijk (xy)-tabellen (=xDep)******************
+0             table 0: table-type 0 (no interpolation)
+1             RP1 (Pr): Neerslag (m/d)
+0 0.001
+0             table 1: table-type 0 (no interpolation)
+1             RP2 (Ev): Referentie gewasverdamping (m/d)
+0 0.0005
+0             table 2: table-type 0 (no interpolation)
+1             RP3 (Landgebruik): Landgebruik (-, zie 'EFAC.XLS')
+0 1
+0             table 3: table-type 0 (no interpolation)
+1             RP4 (MaandNr): Maandnummer (1-12)
+0 1
+
